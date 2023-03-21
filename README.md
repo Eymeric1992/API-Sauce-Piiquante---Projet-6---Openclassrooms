@@ -1,5 +1,8 @@
 # Projet-5-API-Javascript-Sauce-Piiquante-Openclassrooms
 
+Installation at \FRONTEND\frontend> 
+
+npm run start
 
 Installation at \BACKEND>
 
@@ -8,6 +11,6 @@ And nodemon will be installed globally to your system path.
 
 using npx nodemon.
 
-Installation at \FRONTEND\frontend> 
+Open http://localhost:4200/
 
-npm run start
+
